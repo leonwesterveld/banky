@@ -1,0 +1,44 @@
+{
+    "Bankrekening": [
+        {
+            "from/to": "Daniel",
+            "amount": 100,
+            "logo": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Lars",
+            "amount": 30
+        },
+        {
+            "from/to": "Ismael",
+            "amount": -40
+        },
+        {
+            "from/to": "Oscar",
+            "amount": -20
+        },
+        {
+            "from/to": "Eric",
+            "amount": -20
+        },
+        {
+            "from/to": "thijs",
+            "amount": 30
+        },
+        {
+            "from/to": "Oscar",
+            "amount": -50
+        }
+    ],
+    "ZZP-Rekening": [
+        {
+            "from/to": "Bedrijf X",
+            "amount": 5000,
+            "logo": "fa-solid fa-landmark"
+        },
+        {
+            "from/to": "Bedrijf Y",
+            "amount": -100
+        }
+    ]
+}
